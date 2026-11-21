@@ -570,7 +570,7 @@ Rosseel, Y. (2012). lavaan: An R package for structural equation modeling. *Jour
 # Appendix: Reproducibility and Publication Links {.unnumbered}
 
 - **GitHub repository:** [https://github.com/kebachez/M13-Measurement-Model-Assessment.git](https://github.com/kebachez/M13-Measurement-Model-Assessment.git)
-- **Published report:** [https://YOUR-USERNAME.github.io/YOUR-REPO/](https://YOUR-USERNAME.github.io/YOUR-REPO/)
+- **Published report:** [https://kebachez.github.io/M13-Measurement-Model-Assessment/](https://kebachez.github.io/M13-Measurement-Model-Assessment/)
 - **Files:** The final source file is `M13.qmd`, and the rendered report is `M13.html`. The data file is `Case 31 Data_efcu_4.sav`, stored in the repository root.
 - **Verification:** I rendered the report from a clean R session and opened the published GitHub Pages URL in a private browser window. I confirmed that the page, tables and both links work.
 
